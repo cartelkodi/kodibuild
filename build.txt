@@ -4,7 +4,7 @@ zip="https://www.dropbox.com/s/9v7xtzlb5e9gfr1/plugin.program.cartelkodibuild.zi
 
 name="Cartel Test Build 1"
 version="0.1"
-url="https://www.dropbox.com/s/dxxqgvwik7ylzz2/cartelkodibuild.zip?dl=1"
+url="https://kodihub.net/vho2t"
 gui="http://"
 kodi="17"
 theme="http://"

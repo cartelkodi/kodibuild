@@ -1,0 +1,9 @@
+<html>
+<body>
+<p>name="CartelKodiWizard"</p>
+<p>url="https://kodihub.net/vho2t"</p>
+<p>img="https://kodihub.net/a43ea8f4e61b/CartelKodiBuild/icon.png"</p>
+<p>fanart="https://github.com/cartelkodi/kodibuild/blob/master/fanart.jpg"</p>
+<p>description="Cartel Kodi Builds"</p>
+</body>
+</html>
